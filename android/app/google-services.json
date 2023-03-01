@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "909010375674",
+    "project_id": "task-rare-46b11",
+    "storage_bucket": "task-rare-46b11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909010375674:android:28c7a4d394901a01820a43",
+        "android_client_info": {
+          "package_name": "com.ahmedorg.rare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909010375674-nl14npb84shabq7s6qlefqvk9fbi3dmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmedorg.rare",
+            "certificate_hash": "4bd78582cddea5a2e41b5d93cab6ee4e28672a3d"
+          }
+        },
+        {
+          "client_id": "909010375674-jntud9b00t621fngggo4dc2frqcg59uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTaKwjFhZBM57LwLYYB7xwEJoigplJKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909010375674-jntud9b00t621fngggo4dc2frqcg59uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
